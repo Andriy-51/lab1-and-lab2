@@ -1,0 +1,23 @@
+{
+  "name": "lab2-library",
+  "version": "1.0.0",
+  "description": "Reusable generator and iterator utilities from Task 1",
+  "main": "src/index.js",
+  "files": [
+    "src",
+    "labaa1.js"
+  ],
+  "scripts": {
+    "start": "node labaa1.js",
+    "example": "npm --prefix example run start",
+    "test": "echo \"No tests yet\""
+  },
+  "keywords": [
+    "generator",
+    "iterator",
+    "round-robin"
+  ],
+  "author": "Олексій Михайлик",
+  "license": "MIT",
+  "type": "commonjs"
+}

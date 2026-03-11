@@ -1,0 +1,12 @@
+node_modules/
+example/node_modules/
+
+.env
+dist/
+coverage/
+
+npm-debug.log*
+node_modules/
+.env
+dist/
+coverage/
