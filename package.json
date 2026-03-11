@@ -1,14 +1,13 @@
 {
   "name": "lab2-library",
   "version": "1.0.0",
-  "description": "Reusable generator and iterator utilities from Task 1",
-  "main": "src/index.js",
+  "description": "Task 1 demo application",
+  "main": "demaTask1.js",
   "files": [
-    "src",
-    "labaa1.js"
+    "demaTask1.js"
   ],
   "scripts": {
-    "start": "node labaa1.js",
+    "start": "node demaTask1.js",
     "example": "npm --prefix example run start",
     "test": "echo \"No tests yet\""
   },
