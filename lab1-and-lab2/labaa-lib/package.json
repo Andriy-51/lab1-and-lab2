@@ -1,0 +1,12 @@
+{
+  "name": "labaa-lib",
+  "version": "1.0.0",
+  "description": "Small library with round-robin generator and iterator consumer (from Task 1)",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node examples/demo/index.js"
+  },
+  "author": "Andriy-51",
+  "license": "MIT"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "generators-lab",
+  "version": "1.0.0",
+  "description": "University assignment: Generators and Iterators (Node.js)",
+  "main": "generator-lib/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node example/main.js"
+  },
+  "author": "Andriy-51",
+  "license": "MIT"
+}
