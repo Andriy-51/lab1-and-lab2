@@ -2,8 +2,10 @@
   "name": "lab2-library",
   "version": "1.0.0",
   "description": "Task 1 demo application",
-  "main": "demaTask1.js",
+  "main": "index.js",
   "files": [
+    "index.js",
+    "src",
     "demaTask1.js"
   ],
   "scripts": {
